@@ -177,7 +177,7 @@ kramdown:
 collections:
   publications:
     output: true
-    permalink: https://scholar.google.ca/citations?user=GIgzXyAAAAAJ&hl=en
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
