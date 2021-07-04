@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jocelyn Pender"
   avatar           : "profile.jpeg"
   bio              : "Biodiverstiy Data Scientist"
   location         : "Ottawa, Ontario, Canada"
@@ -175,12 +175,9 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: https://scholar.google.ca/citations?user=GIgzXyAAAAAJ&hl=en
   portfolio:
     output: true
     permalink: /:collection/:path/
