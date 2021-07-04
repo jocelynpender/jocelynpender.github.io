@@ -1,22 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Resume"
     url: https://resume.io/r/9LWETMRHV
 
-  - title: "Talks"
-    url: /talks/
+  - title: "Blog"
+    url: http://datadpender.blogspot.com/
 
-  - title: "Teaching"
-    url: /teaching/
-
-  - title: "Portfolio"
-    url: /portfolio/
-
-  - title: "Blog Posts"
-    url: /year-archive/
-
-  - title: "CV"
-    url: /cv/
-
-  - title: "Guide"
-    url: /markdown/
+  - title: "Publications"
+    url: https://scholar.google.ca/citations?user=GIgzXyAAAAAJ&hl=en
