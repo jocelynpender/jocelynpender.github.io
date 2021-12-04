@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Biodiversity Data Scientist** living in Ottawa, Ontario, Canada.
+I am a Biodiversity Data Scientist living in Ottawa, Ontario, Canada.
 
-Currently, I work at the Atlantic Canada Conservation Data Centre as a Conservation Data Analyst. I am interested in how data science can support the **preservation of biodiversity**.
+Currently, I work at the [Atlantic Canada Conservation Data Centre](http://accdc.com/) as a Conservation Data Analyst. I am interested in how data science can support the preservation of biodiversity.
 
-I spend a lot of time volunteering with **Girl Guides of Canada**. I enjoy using my leadership skills to empower girls.
+I spend a lot of time volunteering with Girl Guides of Canada. I enjoy using my leadership skills to empower girls.
+
+Recently, I was selected to participate in the [2021 Dr. Roberta Bondar Career Development Program](https://www.wct-fct.com/en/programs/dr-roberta-bondar-stem-career-development-program).
