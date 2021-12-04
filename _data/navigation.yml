@@ -1,10 +1,14 @@
 # main links links
 main:
-  #- title: "Resume"
-  #  url: https://resume.io/r/9LWETMRHV
 
   - title: "Blog"
     url: http://datadpender.blogspot.com/
 
   - title: "Publications"
     url: https://scholar.google.ca/citations?user=GIgzXyAAAAAJ&hl=en
+
+  - title: "Resume"
+    url: /files/20211204_JocelynPenderResume.pdf
+
+  - title: "Academic Coaching"
+    url: /academic-coaching/
