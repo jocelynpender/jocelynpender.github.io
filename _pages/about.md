@@ -15,3 +15,5 @@ Currently, I work at the [Atlantic Canada Conservation Data Centre](http://accdc
 I spend a lot of time volunteering with Girl Guides of Canada. I enjoy using my leadership skills to empower girls.
 
 Recently, I was selected to participate in the [2021 Dr. Roberta Bondar Career Development Program](https://www.wct-fct.com/en/programs/dr-roberta-bondar-stem-career-development-program).
+
+Last summer, I was grateful for the opportunity to provide advice to young Botany students as [a panellist in the Career in Botany Luncheon](https://botany.org/home/careers-jobs/careers-in-botany/careers_in_botany_profiles.html#pender).
