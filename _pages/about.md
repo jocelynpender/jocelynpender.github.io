@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Biodiversity Data Scientist living in Ottawa, Ontario, Canada.
+I am a Biodiversity Data Scientist living in Sackville, New Brunswick, Canada.
 
 Currently, I work at the [Atlantic Canada Conservation Data Centre](http://accdc.com/) as a Conservation Data Analyst. I am interested in how data science can support the preservation of biodiversity.
 
