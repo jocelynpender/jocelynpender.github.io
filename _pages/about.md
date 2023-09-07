@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Biodiversity Data Scientist living in Sackville, New Brunswick, Canada.
 
-Currently, I work at the [Atlantic Canada Conservation Data Centre](http://accdc.com/) as a Conservation Data Analyst. I am interested in how data science can support the preservation of biodiversity.
+Currently, I work at the [Canadian Wildlife Federation](https://cwf-fcf.org/) as the Manager of Data Science & Web Development. I am interested in how data science can support the preservation of biodiversity.
 
 I spend a lot of time volunteering with Girl Guides of Canada. I enjoy using my leadership skills to empower girls.
 
