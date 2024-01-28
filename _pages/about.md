@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Biodiversity Data Scientist living in Sackville, New Brunswick, Canada.
+I am a Biodiversity Data Scientist living in Ottawa, Ontario, Canada.
 
 Currently, I work at the [Canadian Wildlife Federation](https://cwf-fcf.org/) as the Manager of Data Science & Web Development. I am interested in how data science can support the preservation of biodiversity.
 
